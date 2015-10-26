@@ -11,7 +11,7 @@ Links can be styled in four different states. Usually we style visited the same 
 ## Font Styles
 To change the way font looks use `font-family`. Color of the font can be changed with `color`. Use `font-size`for sizing of the font.
 
-````css
+```css
 h1, h2, h3 {
 	font-family: Helvetica;
 	font-size: 16px;
@@ -26,7 +26,7 @@ h1, h2, h3 {
 	text-decoration: line-through;
 	text-tranform: capitalize;
 }
-````css
+```
 
 ## Background styles
 
@@ -37,4 +37,4 @@ header {
 	background-position: top center;
 	background-repeat: no-repeat;
 }
-````css
+```
