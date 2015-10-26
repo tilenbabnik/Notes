@@ -26,3 +26,15 @@ h1, h2, h3 {
 	text-decoration: line-through;
 	text-tranform: capitalize;
 }
+````css
+
+## Background styles
+
+````css
+header {
+	background-color: #45F2C8;
+	background-image: url('images/background.jpg');
+	background-position: top center;
+	background-repeat: no-repeat;
+}
+````css
