@@ -30,11 +30,10 @@ h1, h2, h3 {
 
 ## Background styles
 
-````css
+```css
 header {
 	background-color: #45F2C8;
 	background-image: url('images/background.jpg');
 	background-position: top center;
 	background-repeat: no-repeat;
 }
-```
